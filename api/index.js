@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 dotenv.config();
 
-// mongoose connection settings
+// mongoose connection 
 mongoose.connect(process.env.MONGO_URI,{
     dbName: "InstantLease",
 })
