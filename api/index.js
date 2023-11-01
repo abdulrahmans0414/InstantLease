@@ -13,21 +13,22 @@ mongoose.connect(process.env.MONGO_URI, {
     .then(() => console.log("mongodb connected"))
     .catch((e) => console.log(e));
 
-
 const app = express();
 
 // middleware
 app.use(express.json());
 
 
+app.listen(process.env.PORT, () => {
+    console.log(`listening on http://localhost:${process.env.PORT}`);
+})
+
 // api routes
 app.use("/api/user", userRouter);
 app.use("/api/auth", authRouter);
 
 
-app.listen(process.env.PORT, () => {
-    console.log(`listening on http://localhost:${process.env.PORT}`);
-})
+
 
 
 // error handler
