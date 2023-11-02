@@ -12,7 +12,7 @@ import {
   signOutUserStart,
 } from '../redux/user/userSlice';
 import { useDispatch } from 'react-redux';
-
+import {Link} from 'react-router-dom';
 
 export default function Profile() {
 
@@ -189,6 +189,12 @@ export default function Profile() {
           className='bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80'>
           {loading ? 'Loading...' : 'Update'}
         </button>
+
+        {/* button for the listing update */}
+        <button  className='text-green-700 w-full'>
+        Show Listings
+      </button>
+
       </form>
       <div className="flex justify-between mt-5">
         <span onClick={handleDeleteUser} className="text-red-700 cursor-pointer">delete account</span>
