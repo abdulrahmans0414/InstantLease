@@ -9,8 +9,9 @@ import CreateListing from "./pages/CreateListing";
 import UpdateListing from "./pages/UpdateListing";
 import Listing from "./pages/Listing";
 import Search from "./pages/Search";
-import SignUp from "./pages/SignUp";
+
 import SignIn from "./pages/SignIn";
+import SignUp from "./pages/SignUp";
 
 
 
