@@ -59,10 +59,9 @@ export default function Home() {
           place with ease
         </h1>
         <div className='text-gray-400 text-xs sm:text-sm'>
-          Sahand Estate is the best place to find your next perfect place to
-          live.
+        InstantLease is the best place to find your next perfect product to use.
           <br />
-          We have a wide range of properties for you to choose from.
+          We have a wide range of products available for taking on lease. 
         </div>
         <Link
           to={'/search'}
