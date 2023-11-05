@@ -228,7 +228,7 @@ export default function CreateListing() {
                             />
                             <span>Rent</span>
                         </div>
-                        <div className='flex gap-2'>
+                        {/* <div className='flex gap-2'>
                             <input
                                 type='checkbox'
                                 id='parking'
@@ -247,7 +247,7 @@ export default function CreateListing() {
                                 checked={formData.furnished}
                             />
                             <span>Furnished</span>
-                        </div>
+                        </div> */}
                         <div className='flex gap-2'>
                             <input
                                 type='checkbox'

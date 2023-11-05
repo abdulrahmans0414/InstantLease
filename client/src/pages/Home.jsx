@@ -5,6 +5,7 @@ import { Navigation } from 'swiper/modules';
 import SwiperCore from 'swiper';
 import 'swiper/css/bundle';
 import ListingItem from '../components/ListingItem';
+import Footer from './Footer';
 
 
 export default function Home() {
@@ -120,6 +121,7 @@ export default function Home() {
           </div>
         )}
       </div>
+      <Footer/>
     </div>
 
 

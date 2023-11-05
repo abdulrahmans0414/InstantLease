@@ -240,7 +240,7 @@ export default function CreateListing() {
                             />
                             <span>Rent</span>
                         </div>
-                        <div className='flex gap-2'>
+                        {/* <div className='flex gap-2'>
                             <input
                                 type='checkbox'
                                 id='parking'
@@ -262,7 +262,7 @@ export default function CreateListing() {
                             />
                             <span>Furnished</span>
                         </div>
-
+*/}
                         <div className='flex gap-2'>
                             <input
                                 type='checkbox'
@@ -274,7 +274,7 @@ export default function CreateListing() {
                             />
                             <span>Offer</span>
                         </div>
-                    </div>
+                  {/*  </div>
 
                     <div className='flex flex-wrap gap-6'>
                         <div className='flex items-center gap-2'>
@@ -289,7 +289,7 @@ export default function CreateListing() {
                                 value={formData.bedrooms}
                             />
                             <p>Beds</p>
-                        </div>
+                        </div> 
                         <div className='flex items-center gap-2'>
                             <input
                                 type='number'
@@ -303,6 +303,7 @@ export default function CreateListing() {
                             />
                             <p>Baths</p>
                         </div>
+                        */}
                         <div className='flex items-center gap-2'>
                             <input
                                 type='number'

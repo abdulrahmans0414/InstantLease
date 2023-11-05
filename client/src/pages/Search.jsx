@@ -195,7 +195,7 @@ export default function Search() {
                             <span>Offer</span>
                         </div>
                     </div>
-                    <div className='flex gap-2 flex-wrap items-center'>
+                    {/* <div className='flex gap-2 flex-wrap items-center'>
                         <label className='font-semibold'>Amenities:</label>
                         <div className='flex gap-2'>
                             <input
@@ -217,7 +217,7 @@ export default function Search() {
                             />
                             <span>Furnished</span>
                         </div>
-                    </div>
+                    </div> */}
                     <div className='flex items-center gap-2'>
                         <label className='font-semibold'>Sort:</label>
                         <select
