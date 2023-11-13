@@ -1,6 +1,6 @@
 ## views
 
-![views](https://githits.vercel.app/api/views?user=abdulrahmans0414&repo=InstantLease&mode=dark&disable=Total)
+![views](https://githits.vercel.app/api/views?user=kausko&repo=InstantLease&mode=dark&disable=Total)
 
 # Instantlease: A Rental Platform for Sharing Unused Items
 
