@@ -1,3 +1,7 @@
+## views
+
+![views](https://githits.vercel.app/api/views?user=abdulrahmans0414&repo=InstantLease&mode=dark&disable=Total)
+
 # Instantlease: A Rental Platform for Sharing Unused Items
 
 Instantlease is a web-based platform that connects owners of unused items with borrowers who are looking to rent those items. The platform allows owners to list their items, upload images, provide descriptions, and set discounts. Borrowers can browse listings, filter by location, and contact owners directly to arrange rentals.
