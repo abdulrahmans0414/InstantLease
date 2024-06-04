@@ -1,3 +1,4 @@
+
 # Instantlease: A Rental Platform for Sharing Unused Items
 
 Instantlease is a web-based platform that connects owners of unused items with borrowers who are looking to rent those items. The platform allows owners to list their items, upload images, provide descriptions, and set discounts. Borrowers can browse listings, filter by location, and contact owners directly to arrange rentals.
@@ -68,7 +69,7 @@ InstantLease addresses these use cases and problems, providing a platform that s
 
 ## Installation:
 
-1. Clone the repository: `git clone https://github.com/your-username/instantlease.git`
+1. Clone the repository: `git clone https://github.com/abdulrahmans/instantlease.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
