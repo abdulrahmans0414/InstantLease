@@ -69,7 +69,7 @@ InstantLease addresses these use cases and problems, providing a platform that s
 
 ## Installation:
 
-1. Clone the repository: `git clone https://github.com/your-username/instantlease.git`
+1. Clone the repository: `git clone https://github.com/abdulrahmans/instantlease.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
